@@ -1,6 +1,6 @@
 
 script = None 
 
-def set_copycat(instance):
+def set_antisocialesds4(instance):
     global script  
     script = instance

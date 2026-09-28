@@ -1,19 +1,5 @@
 import vgamepad as vg
 
-# ◤↼-----------------------------------------------------------⇀◥
-
-#   Please refrain from editing mappings here!
-
-#   Do not relocate this file, as it may be used by the 
-#   application to load the controller mappings.
-
-#   If you want to remmap a button to another button, 
-#   please use the available self.remap_button() function.
-#   https://copycat.stickassist.com/documentation#buttons-4 
-
-#   Modifying this file will may break other scripts.
-
-# ◣↽-----------------------------------------------------------⇁◢
     
 class Buttons:
     BTN_SOUTH = [vg.XUSB_BUTTON.XUSB_GAMEPAD_A, vg.DS4_BUTTONS.DS4_BUTTON_CROSS]
